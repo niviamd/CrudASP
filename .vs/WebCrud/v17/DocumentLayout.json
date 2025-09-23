@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\niviamariadomingues\\desktop\\webcrud\\webcrud\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\produto\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\niviamariadomingues\\desktop\\webcrud\\webcrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\niviamariadomingues\\desktop\\webcrud\\webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\niviamariadomingues\\desktop\\webcrud\\webcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\niviamariadomingues\\desktop\\webcrud\\webcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|c:\\users\\niviamariadomingues\\desktop\\webcrud\\webcrud\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6823CE2-901F-4ACB-8214-7D612A8E964C}|WebCrud\\WebCrud.csproj|solutionrelative:webcrud\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebCrud\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebCrud\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T21:51:33.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Program.cs",
+              "RelativeDocumentMoniker": "WebCrud\\Program.cs",
+              "ToolTip": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Program.cs",
+              "RelativeToolTip": "WebCrud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T20:35:54.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "RelativeToolTip": "WebCrud\\Views\\Produto\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-23T19:55:29.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "WebCrud\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "WebCrud\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:19:43.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "WebCrud\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\Models\\Produto.cs",
+              "RelativeToolTip": "WebCrud\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T19:13:50.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\appsettings.json",
+              "RelativeDocumentMoniker": "WebCrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\appsettings.json",
+              "RelativeToolTip": "WebCrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-23T19:06:52.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
