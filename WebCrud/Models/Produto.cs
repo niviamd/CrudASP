@@ -2,7 +2,7 @@
 
 namespace WebCrud.Models
 {
-    public class Produto
+    public class Produto 
     {
         [Display(Name = "Código do Produto")]   
         public int Prodid { get; set; }

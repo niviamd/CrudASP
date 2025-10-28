@@ -1,37 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\WebCrud.csproj": {}
+    "C:\\Users\\Nivia\\Desktop\\CrudASP\\WebCrud\\WebCrud.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\WebCrud.csproj": {
+    "C:\\Users\\Nivia\\Desktop\\CrudASP\\WebCrud\\WebCrud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\WebCrud.csproj",
+        "projectUniqueName": "C:\\Users\\Nivia\\Desktop\\CrudASP\\WebCrud\\WebCrud.csproj",
         "projectName": "WebCrud",
-        "projectPath": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\WebCrud.csproj",
-        "packagesPath": "C:\\Users\\NIVIAMARIADOMINGUES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NIVIAMARIADOMINGUES\\Desktop\\WebCrud\\WebCrud\\obj\\",
+        "projectPath": "C:\\Users\\Nivia\\Desktop\\CrudASP\\WebCrud\\WebCrud.csproj",
+        "packagesPath": "C:\\Users\\Nivia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nivia\\Desktop\\CrudASP\\WebCrud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\NIVIAMARIADOMINGUES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nivia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -48,12 +47,12 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[9.0.0, )"
             },
             "MySql.Data": {
               "target": "Package",
@@ -79,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
